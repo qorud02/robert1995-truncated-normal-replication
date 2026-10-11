@@ -1,0 +1,23 @@
+{
+  "anchor_cells": 27,
+  "anchor_matches": 26,
+  "table21_matches": 6,
+  "table22_matches": 20,
+  "max_anchor_abs_difference": 0.001527727085272823,
+  "boundary_points": 401,
+  "max_boundary_formula_difference": 8.881784197001252e-16,
+  "max_boundary_rate_difference": 2.220446049250313e-15,
+  "mc_cells": 47,
+  "mc_proposals": 23500000,
+  "wilson95_containing_rate": 44,
+  "max_abs_probability_z": 2.100218510243488,
+  "max_abs_mean_z": 1.8755205821770367,
+  "all_support_pass": true,
+  "all_dkw_familywise99_pass": true,
+  "elapsed_seconds": 116.24188819999108,
+  "python": "3.12.9 (tags/v3.12.9:fdb8142, Feb  4 2025, 15:27:58) [MSC v.1942 64 bit (AMD64)]",
+  "numpy": "2.3.5",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "protocol_sha256": "3961aabf93fbe7417de8904383b72016c8410f4ee78aedcded3eeb046aeaeacc",
+  "script_sha256": "f0ece979024a79f1dcb43f6cc0a58c20c2bdfc07ddbb9c339aa3d375319f30c3"
+}

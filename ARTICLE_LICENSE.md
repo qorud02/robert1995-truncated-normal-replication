@@ -1,0 +1,1 @@
+The newly written manuscript, generated figures and numerical results are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/. Original third-party articles retain their own rights and are linked rather than redistributed.

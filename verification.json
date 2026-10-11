@@ -1,0 +1,10 @@
+{
+  "tests": 4,
+  "failures": 0,
+  "errors": 0,
+  "passed": true,
+  "checks": "Independent quadrature:45intervals;9switchingroots;27printedanchors;47MonteCarlo summaries;optimality perturbations at7points",
+  "limitations": "Does not infer journal acceptance, original timing, or multivariate Gibbs convergence.",
+  "max_probability_quad_abs_error": 3.019806626980426e-14,
+  "max_switch_root_abs_error": 8.881784197001252e-16
+}

@@ -1,0 +1,13 @@
+{
+  "python": "3.12.9",
+  "numpy": "2.3.5",
+  "scipy": "1.15.3",
+  "matplotlib": "3.10.8",
+  "rng": "PCG64DXSM",
+  "os": "Windows 11 (10.0.26300)",
+  "experiment_seconds": 116.24188819999108,
+  "experiment_timer_scope": "Numerical experiment and CSV/JSON generation, before figure rendering.",
+  "latex_engine": "Tectonic 0.17.0",
+  "build_metadata": "Official ReScience parser and YAML converter; PyYAML is a build-only dependency.",
+  "pyyaml": "6.0.3 (build only)"
+}

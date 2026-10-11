@@ -1,0 +1,40 @@
+{
+  "created_utc": "2026-10-11T22:29:40.910Z",
+  "scope": "All numerical results in Section 2 of author reprint arXiv:0907.4010v1: Tables 2.1, 2.2 and Figure 2.1; no multivariate empirical claim.",
+  "base_seed": 202610120295,
+  "one_sided_a": [
+    0,
+    0.5,
+    1,
+    1.5,
+    2,
+    2.5,
+    3
+  ],
+  "two_sided_a": [
+    0,
+    0.5,
+    1,
+    1.5,
+    2
+  ],
+  "two_sided_width": [
+    2,
+    1,
+    0.5,
+    0.1
+  ],
+  "proposals_per_method_and_setting": 500000,
+  "methods": "one-sided exponential; both uniform and capped exponential on every two-sided setting",
+  "rng": "NumPy PCG64DXSM, independent SeedSequence child per cell/method",
+  "acceptance_intervals": "pointwise Wilson 95%; all cell results retained",
+  "moment_check": "accepted iid samples vs quadrature first/second moments; z=(sample_mean-target)/MCSE; descriptive, no pass based on pointwise tests",
+  "cdf_check": "one-sample KS descriptive per cell/method; no aggregate superiority inference",
+  "boundary_grid": "a=0..4 inclusive, step0.01; compare original formula to algebraically independent equal-acceptance root",
+  "timing": "Recorded only as execution provenance, no hardware speed comparison",
+  "tolerances": {
+    "formula_vs_quad": 2e-12,
+    "source_rounding": 0.00050000001,
+    "boundary_root": 1e-10
+  }
+}

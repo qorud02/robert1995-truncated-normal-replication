@@ -1,0 +1,79 @@
+{
+  "source": "Christian P. Robert, Simulation of truncated normal variables, arXiv:0907.4010v1 author reprint of Statistics and Computing 5(1995),121–125,doi:10.1007/BF00143942",
+  "primary_pdf": "https://arxiv.org/pdf/0907.4010v1",
+  "table21": {
+    "printed_page": 4,
+    "a": [
+      0,
+      0.5,
+      1,
+      1.5,
+      2,
+      2.5,
+      3
+    ],
+    "printed": [
+      0.76,
+      0.826,
+      0.876,
+      0.91,
+      0.934,
+      0.95,
+      0.961
+    ]
+  },
+  "table22": {
+    "printed_page": 7,
+    "a": [
+      0,
+      0.5,
+      1,
+      1.5,
+      2
+    ],
+    "width": [
+      2,
+      1,
+      0.5,
+      0.1
+    ],
+    "printed": [
+      [
+        0.726,
+        0.811,
+        0.869,
+        0.907,
+        0.932
+      ],
+      [
+        0.856,
+        0.687,
+        0.751,
+        0.826,
+        0.878
+      ],
+      [
+        0.96,
+        0.851,
+        0.759,
+        0.68,
+        0.679
+      ],
+      [
+        0.998,
+        0.974,
+        0.95,
+        0.927,
+        0.905
+      ]
+    ]
+  },
+  "figure21": {
+    "printed_page": 6,
+    "a_interval": [
+      0,
+      4
+    ],
+    "definition": "Equation (2.1), upper truncation threshold; no underlying original numeric array supplied."
+  }
+}

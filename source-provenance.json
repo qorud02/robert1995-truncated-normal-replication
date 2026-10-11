@@ -1,0 +1,11 @@
+{
+  "url": "https://arxiv.org/pdf/0907.4010v1",
+  "retrieved_utc": "2026-10-11T22:32:32.777Z",
+  "status": 200,
+  "bytes": 103838,
+  "sha256": "825e57fb1e6015e936e6f536cf982f21490bb657335d712671a8986beef39fcd",
+  "signature": "%PDF-1.4",
+  "author_blog": "https://xianblog.wordpress.com/2009/07/24/simulation-of-truncated-normal-variables-reprint/",
+  "journal_doi": "https://doi.org/10.1007/BF00143942",
+  "scope": "Reproduce author reprint Section2 Tables2.1/2.2 and Figure2.1; 1995 publisher pagination differs from the10page author reprint."
+}
