@@ -1,0 +1,533 @@
+{
+  "created_utc": "2026-10-11T22:59:17.626Z",
+  "files": [
+    {
+      "path": ".github/workflows/replay.yml",
+      "bytes": 492,
+      "sha256": "f14e4e9c76ec460b79f5f06cab800110053dfe18827c11cc02ce1cd30bd80d09"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 223,
+      "sha256": "dd0e21a068fc7df2cdaf6848f7ef9882ec6e496f58ff2440a47438dfed4a1e00"
+    },
+    {
+      "path": "acceptance_comparison.pdf",
+      "bytes": 14078,
+      "sha256": "a24d1048436041414c14771f5d4bb6ee3e06f6d4e7043b6e51307fe55de74be1"
+    },
+    {
+      "path": "acceptance_comparison.png",
+      "bytes": 95756,
+      "sha256": "6e319433ba4dc8bef52eb17ff5246f53a72724169bb3dd4af0ff3595c38febc7"
+    },
+    {
+      "path": "anchors.json",
+      "bytes": 1227,
+      "sha256": "91e56f25d525c13a4ce4c0eddab5a9387e7a2580ad99490e3ea481cefcac26b8"
+    },
+    {
+      "path": "ARTICLE_LICENSE.md",
+      "bytes": 303,
+      "sha256": "514bcac5da2e18b7ae0317c0d5080ce61af502250e27b8e66e65bc956d758637"
+    },
+    {
+      "path": "article.pdf",
+      "bytes": 96924,
+      "sha256": "030cb96907f30ce5bc48b72674ab64878aa3044feb52266fc2ff55092e14bbbe"
+    },
+    {
+      "path": "bibliography.bib",
+      "bytes": 1193,
+      "sha256": "7e1282befa15c18599ee758b7c068f9caf7852930eba215e0d0600eed0119647"
+    },
+    {
+      "path": "boundary.csv",
+      "bytes": 28960,
+      "sha256": "d28ff790dedf7bb6b982021fef32465b55782f1edbd86919e41adfd35236405f"
+    },
+    {
+      "path": "BUILD.md",
+      "bytes": 1181,
+      "sha256": "808c11857ac5ae32d9d70d483b5523af13af3e1db89da6fec4757f65892ee1cf"
+    },
+    {
+      "path": "environment.json",
+      "bytes": 470,
+      "sha256": "2247cca680a907b93d6b5b6d412514043bafeec597e3245034287c91468cc1bc"
+    },
+    {
+      "path": "figure21_replication.pdf",
+      "bytes": 11540,
+      "sha256": "d279d04a08679a9fac4bcb77699452f02586d66af60dc4c690e11ab3a25b64b3"
+    },
+    {
+      "path": "figure21_replication.png",
+      "bytes": 81555,
+      "sha256": "c43b9408290b6944f5efef0efce9942c8f92943ec7622e7810a6b613fdfdd19d"
+    },
+    {
+      "path": "latex/acceptance_comparison.pdf",
+      "bytes": 14078,
+      "sha256": "a24d1048436041414c14771f5d4bb6ee3e06f6d4e7043b6e51307fe55de74be1"
+    },
+    {
+      "path": "latex/article.pdf",
+      "bytes": 96924,
+      "sha256": "030cb96907f30ce5bc48b72674ab64878aa3044feb52266fc2ff55092e14bbbe"
+    },
+    {
+      "path": "latex/article.py",
+      "bytes": 10495,
+      "sha256": "b208245acfcb9d1d66d3c93f61fdc7efab30438b21d5613edd7e3ee764b11e4b"
+    },
+    {
+      "path": "latex/article.tex",
+      "bytes": 375,
+      "sha256": "85399a5927b900f44e9b1e3c4173e747bf7fb332b580c2b1e3269e1cdc621f12"
+    },
+    {
+      "path": "latex/bibliography.bib",
+      "bytes": 1193,
+      "sha256": "7e1282befa15c18599ee758b7c068f9caf7852930eba215e0d0600eed0119647"
+    },
+    {
+      "path": "latex/content.tex",
+      "bytes": 13729,
+      "sha256": "0bb008a77ad6d5ca18129cf8709d02011a3777878eea9fafe14ce07db56da52a"
+    },
+    {
+      "path": "latex/COPYING",
+      "bytes": 35147,
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+    },
+    {
+      "path": "latex/figure21_replication.pdf",
+      "bytes": 11540,
+      "sha256": "d279d04a08679a9fac4bcb77699452f02586d66af60dc4c690e11ab3a25b64b3"
+    },
+    {
+      "path": "latex/header.tex",
+      "bytes": 3022,
+      "sha256": "a105035adc03fb785e28d079aada5d649076a204df0c1bcd6e2c16ef24a17c4b"
+    },
+    {
+      "path": "latex/metadata.tex",
+      "bytes": 2743,
+      "sha256": "508aaffce397ff773d39480f4d72457e727e8bf683c4bea2a9430f38fea069b3"
+    },
+    {
+      "path": "latex/metadata.yaml",
+      "bytes": 3124,
+      "sha256": "4128eb5863a375204c13f077d6e546685e9b22a200264e0deb4f56d8ff8d410c"
+    },
+    {
+      "path": "latex/rescience.cls",
+      "bytes": 13622,
+      "sha256": "f741c0e3bbea00b61047187fa31061b1144bec17160ef5544ebcb488a8deae7c"
+    },
+    {
+      "path": "latex/roboto/Apache License.txt",
+      "bytes": 11388,
+      "sha256": "3e8480e2679854dffdd0c4f162d9941fd5b9231be881859fcb419544cd7b6c99"
+    },
+    {
+      "path": "latex/roboto/Roboto-Black.ttf",
+      "bytes": 171480,
+      "sha256": "3872e9b39760a1b59ac1e192633dbb3b58e595b4d423930ac7ded525e9ae25e0"
+    },
+    {
+      "path": "latex/roboto/Roboto-BlackItalic.ttf",
+      "bytes": 177552,
+      "sha256": "013d22a4fb2638adba28555ee19366f4585f6dc533b7c332f4931a231497cb22"
+    },
+    {
+      "path": "latex/roboto/Roboto-Bold.ttf",
+      "bytes": 170760,
+      "sha256": "7d0b991ee3e0be7af01ad7ea8cd2beea6c00a25e679a0226b6737f079aafff86"
+    },
+    {
+      "path": "latex/roboto/Roboto-BoldItalic.ttf",
+      "bytes": 174952,
+      "sha256": "a4bcac14f419a97de0917198a4bc51c3ed4fc4a3db9f68a5102f23664ee01354"
+    },
+    {
+      "path": "latex/roboto/Roboto-Italic.ttf",
+      "bytes": 173932,
+      "sha256": "5fce8b6f8ba9f4d19f0d535e241d56a2b8e72bb07e7df711d968d092ef7f9fca"
+    },
+    {
+      "path": "latex/roboto/Roboto-Light.ttf",
+      "bytes": 170420,
+      "sha256": "a6d343d425bc38db90152fa06058b1c7391eca9264f334ef65c1ce175085c6f6"
+    },
+    {
+      "path": "latex/roboto/Roboto-LightItalic.ttf",
+      "bytes": 176616,
+      "sha256": "364a23e13c64937c3fcea3db778628b89379c893849bbade6e5bf83c5f605c6a"
+    },
+    {
+      "path": "latex/roboto/Roboto-Medium.ttf",
+      "bytes": 172064,
+      "sha256": "f205cc511821ea56078a105557fcea6253129404d411c997e1866fbd006abb68"
+    },
+    {
+      "path": "latex/roboto/Roboto-MediumItalic.ttf",
+      "bytes": 176864,
+      "sha256": "f177eed10d2470d13ec68d04907a582829d0ee8281f8a02a906f6954c7816e58"
+    },
+    {
+      "path": "latex/roboto/Roboto-Regular.ttf",
+      "bytes": 171676,
+      "sha256": "79e851404657dac2106b3d22ad256d47824a9a5765458edb72c9102a45816d95"
+    },
+    {
+      "path": "latex/roboto/Roboto-Thin.ttf",
+      "bytes": 171904,
+      "sha256": "3d91f7aa69cb7f7064035895c566ac5cb9b2084582d351af7267bb4e0fba60f5"
+    },
+    {
+      "path": "latex/roboto/Roboto-ThinItalic.ttf",
+      "bytes": 176300,
+      "sha256": "f5e89a344894a60f0f98f1c0182ba51f5046e29dde3118820d39025445aeaae8"
+    },
+    {
+      "path": "latex/roboto/RobotoCondensed-Bold.ttf",
+      "bytes": 141796,
+      "sha256": "28a1d37668b4cf94fff5256e9639f175baf4dd654ec84ba910485d38beefa6bd"
+    },
+    {
+      "path": "latex/roboto/RobotoCondensed-BoldItalic.ttf",
+      "bytes": 145256,
+      "sha256": "1b7b805a79e932723b2f052df899a14fb4570c311b73968f2899c63e923c06ec"
+    },
+    {
+      "path": "latex/roboto/RobotoCondensed-Italic.ttf",
+      "bytes": 144404,
+      "sha256": "36e85f83d6b2a492d762f465037bd5273e7e14f4fe1961f9f5f28b76d0f93ee0"
+    },
+    {
+      "path": "latex/roboto/RobotoCondensed-Light.ttf",
+      "bytes": 141384,
+      "sha256": "bcafee6b8dbf976a036373a94c340c9aeb7c9683c34808dd9425331c2892be9c"
+    },
+    {
+      "path": "latex/roboto/RobotoCondensed-LightItalic.ttf",
+      "bytes": 145104,
+      "sha256": "b49459fd132f1dd3c9702df08fee08791e67bfe0a26e06b1badb208e56d2fda4"
+    },
+    {
+      "path": "latex/roboto/RobotoCondensed-Regular.ttf",
+      "bytes": 140396,
+      "sha256": "4a7c36df4318fee50a8159c3a0ebde4572abab65447ae4a651c2fe87212302b5"
+    },
+    {
+      "path": "latex/source-code-pro/SIL Open Font License.txt",
+      "bytes": 4525,
+      "sha256": "d73f22c5f15342b572fee0ef98ff7fdfa8cd3832cb37eff44b0c6ffe3bcd96e2"
+    },
+    {
+      "path": "latex/source-code-pro/SourceCodePro-Black.otf",
+      "bytes": 144272,
+      "sha256": "0e5aa06e572b58f746d1ec9b67b13081f10a18e330e546c960c2124c0262be99"
+    },
+    {
+      "path": "latex/source-code-pro/SourceCodePro-BlackIt.otf",
+      "bytes": 122048,
+      "sha256": "5b5a08844e41c1e639599a32460cc05e74a19829cd38c17ec12ff1cdf072c8ec"
+    },
+    {
+      "path": "latex/source-code-pro/SourceCodePro-Bold.otf",
+      "bytes": 143932,
+      "sha256": "ef5f4c7caf474cefbe73831bf76910a72e3a2507519bb281d66eba778a6f193d"
+    },
+    {
+      "path": "latex/source-code-pro/SourceCodePro-BoldIt.otf",
+      "bytes": 120672,
+      "sha256": "88815d54077a519ab4d7543f1c951ac4dfdc7706da0cc7c4e86f3eaa0fa0f651"
+    },
+    {
+      "path": "latex/source-code-pro/SourceCodePro-ExtraLight.otf",
+      "bytes": 136572,
+      "sha256": "fc13cb9f101a05254a1ce5e8cd96374c96a1d09c2a2d7e59661414f35728f968"
+    },
+    {
+      "path": "latex/source-code-pro/SourceCodePro-ExtraLightIt.otf",
+      "bytes": 117868,
+      "sha256": "71d8bfd458e567be7a2c9f4ea52a4dc7a2a99927ae59864c1cb150f89b0fb7b6"
+    },
+    {
+      "path": "latex/source-code-pro/SourceCodePro-It.otf",
+      "bytes": 120036,
+      "sha256": "6e47642fc0cff14647ac6f67b285e7bec054f7b5d1300adcc21ddcbb404d0cc0"
+    },
+    {
+      "path": "latex/source-code-pro/SourceCodePro-Light.otf",
+      "bytes": 139120,
+      "sha256": "19b0f8a69e40266c22c52923995ca63dcaa4c3fadb5569f080755fded5f7a278"
+    },
+    {
+      "path": "latex/source-code-pro/SourceCodePro-LightIt.otf",
+      "bytes": 120972,
+      "sha256": "bf1422b18581460bb648813690bd6240fdd74e56a2389e328088686d2fe8a66a"
+    },
+    {
+      "path": "latex/source-code-pro/SourceCodePro-Medium.otf",
+      "bytes": 140444,
+      "sha256": "48473cbb0569945196f5d25e4ac84de7346a013aa5dae44385feb880dca56e4e"
+    },
+    {
+      "path": "latex/source-code-pro/SourceCodePro-MediumIt.otf",
+      "bytes": 120308,
+      "sha256": "be7be4954a0abca187a7bc8df57794d8b944d57cc5567ed85b2c7fdea06f39b2"
+    },
+    {
+      "path": "latex/source-code-pro/SourceCodePro-Regular.otf",
+      "bytes": 140088,
+      "sha256": "2e41bf2651da5cea37961c9476ee457d47d0b889007941c2fab4c815732772ec"
+    },
+    {
+      "path": "latex/source-code-pro/SourceCodePro-Semibold.otf",
+      "bytes": 141308,
+      "sha256": "80a6ac083d543064858e4c2f286872fb8d35ed6753c1dc4c24ff6965fc783d94"
+    },
+    {
+      "path": "latex/source-code-pro/SourceCodePro-SemiboldIt.otf",
+      "bytes": 120360,
+      "sha256": "a64c80402179d8cb35bf6ace4175aead3707fbbf25f4d2e601d838a9bface113"
+    },
+    {
+      "path": "latex/source-sans-pro/SIL Open Font License.txt",
+      "bytes": 4525,
+      "sha256": "d73f22c5f15342b572fee0ef98ff7fdfa8cd3832cb37eff44b0c6ffe3bcd96e2"
+    },
+    {
+      "path": "latex/source-sans-pro/SourceSansPro-Black.otf",
+      "bytes": 234176,
+      "sha256": "e447cd47a62874dc94d6ab97a84dbeb7f2f0aba3e490b9f0128b6c8399a96f37"
+    },
+    {
+      "path": "latex/source-sans-pro/SourceSansPro-BlackIt.otf",
+      "bytes": 81120,
+      "sha256": "07198d116759bd75afeee9f7a975c9435608fa57e0647a09349c9d01b90ea3d0"
+    },
+    {
+      "path": "latex/source-sans-pro/SourceSansPro-Bold.otf",
+      "bytes": 235128,
+      "sha256": "9b8bd174f97413334e317be808d14d0ff8f6efed79a69299d84384c7e10e9312"
+    },
+    {
+      "path": "latex/source-sans-pro/SourceSansPro-BoldIt.otf",
+      "bytes": 80392,
+      "sha256": "b94666879fb221aad70f479107ad01f8c93500c6fd2a77811da412d364441ab5"
+    },
+    {
+      "path": "latex/source-sans-pro/SourceSansPro-ExtraLight.otf",
+      "bytes": 221580,
+      "sha256": "faccddbb11292f3952d38248a02087856ea4b1ec61f2828f2e6018d051127a98"
+    },
+    {
+      "path": "latex/source-sans-pro/SourceSansPro-ExtraLightIt.otf",
+      "bytes": 76400,
+      "sha256": "06ec3606be288627b452595d25e46e2c5094ef453e2f5c371076390557c53495"
+    },
+    {
+      "path": "latex/source-sans-pro/SourceSansPro-It.otf",
+      "bytes": 79724,
+      "sha256": "e90b35e5f96577f03a27e659c4b69666e45e1691f2bce2fc2f883aeff9238419"
+    },
+    {
+      "path": "latex/source-sans-pro/SourceSansPro-Light.otf",
+      "bytes": 226032,
+      "sha256": "4b3250ffc8182e93d79221c36b8f6a214600f7082b843142ef9c252581e13bb6"
+    },
+    {
+      "path": "latex/source-sans-pro/SourceSansPro-LightIt.otf",
+      "bytes": 77816,
+      "sha256": "c5dc9a7de549b032e341b4564ef9f8f215ab938f9adcec36442de5f9a7bb0290"
+    },
+    {
+      "path": "latex/source-sans-pro/SourceSansPro-Regular.otf",
+      "bytes": 229588,
+      "sha256": "6b096b47206d8f78a2c49af2f2ae46b35d93b0e3cf105a9febef59144aa2eae2"
+    },
+    {
+      "path": "latex/source-sans-pro/SourceSansPro-Semibold.otf",
+      "bytes": 232680,
+      "sha256": "ee3ba5c88400b22b880d85202ce82143dc5e19861bf7880b7f4c32d4263e96d5"
+    },
+    {
+      "path": "latex/source-sans-pro/SourceSansPro-SemiboldIt.otf",
+      "bytes": 80316,
+      "sha256": "82ed41eed0b18254c1bbcd7c4317abfbfa55ac056a5cf62004f561c0c44f735c"
+    },
+    {
+      "path": "latex/source-serif-pro/SIL Open Font License.txt",
+      "bytes": 4519,
+      "sha256": "80dee4470cde9b61e1867d09ff1dfd5b3c390c87e87a36b73f38c7a7701b2a5a"
+    },
+    {
+      "path": "latex/source-serif-pro/SourceSerifPro-Black.otf",
+      "bytes": 222452,
+      "sha256": "99dec8031ddfd0e641ab35d0cbaefced039ae03b427d81ab7e5ae4a8e51ef0e7"
+    },
+    {
+      "path": "latex/source-serif-pro/SourceSerifPro-BlackIt.otf",
+      "bytes": 73068,
+      "sha256": "c92ee8fdda809d9a3d9b7044a21601c8a72b1d618a3ca20efef0fc5d8557fd35"
+    },
+    {
+      "path": "latex/source-serif-pro/SourceSerifPro-Bold.otf",
+      "bytes": 228024,
+      "sha256": "3432ff72f5a05bc9ea3e40591740768e3ac9e2de08e326d223df0d8e725077d7"
+    },
+    {
+      "path": "latex/source-serif-pro/SourceSerifPro-BoldIt.otf",
+      "bytes": 75016,
+      "sha256": "1e73f91b3f54250d327ca193154b234db56ac003f5c7d2ae796b0e036bd715fe"
+    },
+    {
+      "path": "latex/source-serif-pro/SourceSerifPro-ExtraLight.otf",
+      "bytes": 212300,
+      "sha256": "000c8acb2d51a65281b6117edea426cfcf3de0b44db3e9080474338e18c76686"
+    },
+    {
+      "path": "latex/source-serif-pro/SourceSerifPro-ExtraLightIt.otf",
+      "bytes": 72544,
+      "sha256": "97d4a176132a17f11347b729a300c41565749225f8983ef78d7424615785a302"
+    },
+    {
+      "path": "latex/source-serif-pro/SourceSerifPro-It.otf",
+      "bytes": 73408,
+      "sha256": "929c92384dee90dfc6d736743e006f31fc7b7e73ab9863726d60a978ff77207c"
+    },
+    {
+      "path": "latex/source-serif-pro/SourceSerifPro-Light.otf",
+      "bytes": 217212,
+      "sha256": "9ced7df50ee62a4ee68c9c762488914844986336dbf0edbac02c67eaa22f01da"
+    },
+    {
+      "path": "latex/source-serif-pro/SourceSerifPro-LightIt.otf",
+      "bytes": 74164,
+      "sha256": "6f9544bc489dfbb06b288d6d4d1f7c8c10f19cf2476a3d6f73b4b1df922e0aa7"
+    },
+    {
+      "path": "latex/source-serif-pro/SourceSerifPro-Regular.otf",
+      "bytes": 217280,
+      "sha256": "199c8adc83479480d9aa5d942afe8f52085af4e6c2093819b190807702fbcfe2"
+    },
+    {
+      "path": "latex/source-serif-pro/SourceSerifPro-Semibold.otf",
+      "bytes": 227008,
+      "sha256": "fa0fa85d115316bb1541607373a8e6676f2430f42d38806f2bc0b5f9a8424c91"
+    },
+    {
+      "path": "latex/source-serif-pro/SourceSerifPro-SemiboldIt.otf",
+      "bytes": 75188,
+      "sha256": "a9ed6d553fe4ff3a635efc5467c1dfce9747815422c01570b02eb5eda3dc7ea0"
+    },
+    {
+      "path": "latex/yaml-to-latex.py",
+      "bytes": 4234,
+      "sha256": "40ca99480f8e5b40aa98be3a5a9d5d9c63253e8e40ebff7ce5f977127deda2bb"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1069,
+      "sha256": "0da651d0efcca36f49c04e8dfcb7933a414230e3cc354411cb381651cc155ff8"
+    },
+    {
+      "path": "manuscript.md",
+      "bytes": 13742,
+      "sha256": "187a65f88eb72bd89ee5e84cc95db93c205f4843316e3dda1c358536b822345c"
+    },
+    {
+      "path": "metadata.yaml",
+      "bytes": 3124,
+      "sha256": "4128eb5863a375204c13f077d6e546685e9b22a200264e0deb4f56d8ff8d410c"
+    },
+    {
+      "path": "monte_carlo.csv",
+      "bytes": 16551,
+      "sha256": "1e51b506dbc080c036454cbf3fe339aece2d61c3356ecb237c47e74953497e2d"
+    },
+    {
+      "path": "prepare_publication.py",
+      "bytes": 7842,
+      "sha256": "25136bb1730612b9d4a304b0a35c7c7e703dfa6d9836a97a4acab5ea4fd0ad05"
+    },
+    {
+      "path": "protocol.json",
+      "bytes": 1303,
+      "sha256": "3961aabf93fbe7417de8904383b72016c8410f4ee78aedcded3eeb046aeaeacc"
+    },
+    {
+      "path": "quadrature.csv",
+      "bytes": 5393,
+      "sha256": "b27dba4cac93295d9c434af47e455f44662a78e998489d068e415804547b47ee"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3630,
+      "sha256": "6f3e5938682be4067ae00abd04e71d21965d2f9800aa1193960d251d1cd0ab3d"
+    },
+    {
+      "path": "replicate.py",
+      "bytes": 8719,
+      "sha256": "f0ece979024a79f1dcb43f6cc0a58c20c2bdfc07ddbb9c339aa3d375319f30c3"
+    },
+    {
+      "path": "requirements-build.txt",
+      "bytes": 14,
+      "sha256": "0969da99a0bc2a1b71ed50584560f4588a37567ac63af3ddbaf3c4617ca5621a"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 46,
+      "sha256": "9606467b2586f85fe65a752271ec73dde47dfc82b0469e7fcbc4d114790bcdc4"
+    },
+    {
+      "path": "SOURCE_TRACE.md",
+      "bytes": 3117,
+      "sha256": "8a8152f8729c9ee34ada684cfb55e0946106b1ced6b18a2016ce2aea34c45d7d"
+    },
+    {
+      "path": "source-provenance.json",
+      "bytes": 547,
+      "sha256": "62960261c87e051be83eeead6341fe24626bac3f900b7a75824103fed61f52ed"
+    },
+    {
+      "path": "summary.json",
+      "bytes": 922,
+      "sha256": "32dca11a267b292767def9d80a2cc77e68d105af067dc58f3c162fa98faf1572"
+    },
+    {
+      "path": "switch-root.csv",
+      "bytes": 542,
+      "sha256": "7290186023e8269e2bb2c6569eaef09edc0279f379232dc9f9a7820503edfa3c"
+    },
+    {
+      "path": "table21.csv",
+      "bytes": 491,
+      "sha256": "e581fdbc761f3ba1d4a7d9300b5ffb36c27ed75df6b19b3e8644b0ec10d0427c"
+    },
+    {
+      "path": "table22.csv",
+      "bytes": 2398,
+      "sha256": "76dfa479a1e30315c322b4e9bf084e756e0e36651c4b16ad51f6e83c7290ee3e"
+    },
+    {
+      "path": "verification.json",
+      "bytes": 436,
+      "sha256": "90f6f8ba8fb28fd3e45cf74ee831c403d1f3533da1459c6164d5c9fcfe9a10b6"
+    },
+    {
+      "path": "verify.py",
+      "bytes": 5299,
+      "sha256": "24aeb6a8dd909889992fcee57ad7b7473ca295e5297a9b485450e52ec426f26a"
+    }
+  ],
+  "total_files": 105,
+  "total_bytes": 9037746,
+  "excluded": "Private source PDF/cache, local dependencies, inquiry/submission drafts, QA helper, generated TeX support/logs"
+}

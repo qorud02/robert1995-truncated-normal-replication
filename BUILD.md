@@ -3,7 +3,7 @@
 The code and experiment run with requirements.txt. PDF generation additionally uses PyYAML (requirements-build.txt) and Tectonic 0.17.0, or a standard XeLaTeX/BibTeX installation.
 
     python -m pip install -r requirements-build.txt
-    python prepare_publication.py --code-url ACTUAL_PUBLIC_CODE_URL
+    python prepare_publication.py --code-url https://github.com/qorud02/robert1995-truncated-normal-replication
     cd latex
     tectonic -X compile --keep-logs article.tex
 

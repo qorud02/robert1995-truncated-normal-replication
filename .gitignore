@@ -15,3 +15,6 @@ _source/
 *.pyc
 author-inquiry-draft.txt
 publication-preparation.json
+qa_publication.py
+submission_issue.md
+*-blx.bib
